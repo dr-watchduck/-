@@ -11,6 +11,9 @@
 7.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitrens
 8. vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)
 9. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
+10. 회사 유니티 프로젝트 설치
+11. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.  
+    window에서 사용하던 헬테이커 다운로더 등등
 
 ### 소프트웨어 - item2 설치 버전
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
@@ -36,10 +39,6 @@
 ### 소프트웨어 - 나중에
 1. iphone 12 mini 시뮬레이터
 2. 알프레드(https://www.alfredapp.com/ , window wox에서 쓰던 세팅 convert 하기)
-
-### 파일 옮기기
-1. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.
-    window에서 사용하던 헬테이커 다운로더 등등
 
 ### 방송세팅..
 1. obs
