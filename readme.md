@@ -2,7 +2,7 @@
 0. dock 정리
 
 ### 소프트웨어
-1. brew.sh
+1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
 2. brew install --cask visual-studio-code google-chrome slack iterm2 flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork
 3. iTerm2 확장 https://gist.github.com/kevin-smets/8568070
 4. iTerm2 세팅 https://youtu.be/B26yiuC5zPM?t=182
