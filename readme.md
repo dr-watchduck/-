@@ -1,7 +1,18 @@
 ### 켜자마자
 0. dock 정리
 
-### 소프트웨어
+### 소프트웨어 - item2 설치 X
+1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
+2. brew install --cask visual-studio-code google-chrome slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork
+3. brew install python3 pipenv nvm gh
+4. nvm ls-remote
+5. npm lts 중에 가장 최신꺼 다운로드.
+6. gh auth login (https://youtu.be/B26yiuC5zPM?t=490)
+7.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitrens
+8. vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)
+9. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
+
+### 소프트웨어 - item2 설치 버전
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
 2. brew install --cask visual-studio-code google-chrome slack iterm2 flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork
 3. iTerm2 확장 https://gist.github.com/kevin-smets/8568070
@@ -12,7 +23,7 @@
 8. gh auth login (https://youtu.be/B26yiuC5zPM?t=490)
 9.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitrens
 10. vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)
-11. /usr/sbin/softwareupdate -–install-rosetta –-agree-to-license
+11. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
 
 ### 소프트웨어 - 부가요소
 1. next meeting(https://apps.apple.com/us/app/next-meeting/id1017470484?mt=12 , 잘 쓸수 있으려나?)
