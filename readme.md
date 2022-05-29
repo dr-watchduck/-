@@ -1,9 +1,10 @@
 ### 켜자마자
 0. dock 정리
+1. Nas 연결
 
 ### 소프트웨어 - item2 설치 X
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
-2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork
+2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork keka intellij-idea-ce
 3. brew install python3 pipenv nvm gh
 4. nvm ls-remote
 5. npm lts 중에 가장 최신꺼 다운로드.
@@ -11,13 +12,16 @@
 7.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitrens
 8. vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)
 9. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
-10. 회사 유니티 프로젝트 설치
-11. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.  
+10. 유니콘 HTTPS 설치
+11. https://filezilla-project.org/download.php?platform=osx 설치
+12. Fork 세팅
+13. 회사 유니티 프로젝트 설치
+14. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.  
     window에서 사용하던 헬테이커 다운로더 등등
 
 ### 소프트웨어 - item2 설치 버전
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
-2. brew install --cask visual-studio-code google-chrome slack iterm2 flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork
+2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork keka intellij-idea-ce
 3. iTerm2 확장 https://gist.github.com/kevin-smets/8568070
 4. iTerm2 세팅 https://youtu.be/B26yiuC5zPM?t=182
 5. brew install python3 pipenv nvm gh
@@ -39,7 +43,9 @@
 ### 소프트웨어 - 나중에
 1. iphone 12 mini 시뮬레이터
 2. 알프레드(https://www.alfredapp.com/ , window wox에서 쓰던 세팅 convert 하기)  
-네이버쇼핑, 다나와, 쿠팡 3개 동시 검색 기능 추가
+ㄱ. 네이버쇼핑, 다나와, 쿠팡 3개 동시 검색 기능 추가  
+ㄴ. http 유니콘 그거. on/off
+ㄷ. 로아와 검색
 
 ### 방송세팅..
 1. obs
