@@ -3,7 +3,7 @@
 
 ### 소프트웨어 - item2 설치 X
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
-2. brew install --cask visual-studio-code google-chrome slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork
+2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork
 3. brew install python3 pipenv nvm gh
 4. nvm ls-remote
 5. npm lts 중에 가장 최신꺼 다운로드.
@@ -38,7 +38,8 @@
 
 ### 소프트웨어 - 나중에
 1. iphone 12 mini 시뮬레이터
-2. 알프레드(https://www.alfredapp.com/ , window wox에서 쓰던 세팅 convert 하기)
+2. 알프레드(https://www.alfredapp.com/ , window wox에서 쓰던 세팅 convert 하기)  
+네이버쇼핑, 다나와, 쿠팡 3개 동시 검색 기능 추가
 
 ### 방송세팅..
 1. obs
