@@ -4,7 +4,7 @@
 
 ### 소프트웨어 - item2 설치 X
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
-2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork keka intellij-idea-ce
+2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork keka intellij-idea-ce skitch
 3. brew install python3 pipenv nvm gh
 4. nvm ls-remote
 5. npm lts 중에 가장 최신꺼 다운로드.
