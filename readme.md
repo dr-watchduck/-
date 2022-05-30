@@ -8,7 +8,7 @@
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
 2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-powerpoint fork keka intellij-idea-ce skitch discord
 3. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
-4. brew install --cask microsoft-teams parsec
+4. brew install --cask microsoft-teams parsec caffeine
 5. brew install python3 pipenv nvm gh
 6. nvm ls-remote
 7. npm lts 중에 가장 최신꺼 다운로드.
