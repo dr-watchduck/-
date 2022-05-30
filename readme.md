@@ -1,7 +1,7 @@
 ### 켜자마자
 0. 키보드 연속입력 속도 빠르게 변경
-1. dock 정리
-2. Nas 연결
+1. 트랙패드 보조입력 오른쪽 하단으로 변경
+2. dock 정리
 
 ### 소프트웨어 - item2 설치 X
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
@@ -47,6 +47,7 @@
 ㄱ. 네이버쇼핑, 다나와, 쿠팡 3개 동시 검색 기능 추가  
 ㄴ. http 유니콘 그거. on/off
 ㄷ. 로아와 검색
+3. Nas 연결
 
 ### 방송세팅..
 1. obs
