@@ -13,8 +13,8 @@
 6. nvm ls-remote
 7. npm lts 중에 가장 최신꺼 다운로드.
 8. ~~gh auth login (https://youtu.be/B26yiuC5zPM?t=490)~~
-9.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitrens, prettier
-10. vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)
+9.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitLens, prettier
+10. __vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)__
 11. 유니콘 HTTPS 설치
 12. https://filezilla-project.org/download.php?platform=osx 설치
 13. Fork 세팅
