@@ -6,19 +6,20 @@
 
 ### 소프트웨어 - item2 설치 X
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
-2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork keka intellij-idea-ce skitch
-3. brew install python3 pipenv nvm gh
-4. nvm ls-remote
-5. npm lts 중에 가장 최신꺼 다운로드.
-6. gh auth login (https://youtu.be/B26yiuC5zPM?t=490)
-7.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitrens
-8. vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)
-9. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
-10. 유니콘 HTTPS 설치
-11. https://filezilla-project.org/download.php?platform=osx 설치
-12. Fork 세팅
-13. 회사 유니티 프로젝트 설치
-14. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.  
+2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-powerpoint fork keka intellij-idea-ce skitch
+3. brew install --cask microsoft-teams
+4. brew install python3 pipenv nvm gh
+5. nvm ls-remote
+6. npm lts 중에 가장 최신꺼 다운로드.
+7. gh auth login (https://youtu.be/B26yiuC5zPM?t=490)
+8.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitrens
+9. vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)
+10. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
+11. 유니콘 HTTPS 설치
+12. https://filezilla-project.org/download.php?platform=osx 설치
+13. Fork 세팅
+14. 회사 유니티 프로젝트 설치
+15. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.  
     window에서 사용하던 헬테이커 다운로더 등등
 
 ### 소프트웨어 - item2 설치 버전
