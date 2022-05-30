@@ -1,6 +1,7 @@
 ### 켜자마자
-0. dock 정리
-1. Nas 연결
+0. 키보드 연속입력 속도 빠르게 변경
+1. dock 정리
+2. Nas 연결
 
 ### 소프트웨어 - item2 설치 X
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
