@@ -6,15 +6,15 @@
 
 ### 소프트웨어 - item2 설치 X
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
-2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-powerpoint fork keka intellij-idea-ce skitch
-3. brew install --cask microsoft-teams
-4. brew install python3 pipenv nvm gh
-5. nvm ls-remote
-6. npm lts 중에 가장 최신꺼 다운로드.
-7. gh auth login (https://youtu.be/B26yiuC5zPM?t=490)
-8.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitrens
-9. vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)
-10. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
+2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-powerpoint fork keka intellij-idea-ce skitch discord
+3. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
+4. brew install --cask microsoft-teams parsec
+5. brew install python3 pipenv nvm gh
+6. nvm ls-remote
+7. npm lts 중에 가장 최신꺼 다운로드.
+8. ~~gh auth login (https://youtu.be/B26yiuC5zPM?t=490)~~
+9.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitrens, prettier
+10. vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)
 11. 유니콘 HTTPS 설치
 12. https://filezilla-project.org/download.php?platform=osx 설치
 13. Fork 세팅
