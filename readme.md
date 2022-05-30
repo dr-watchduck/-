@@ -40,7 +40,7 @@
 2. weather bug(https://apps.apple.com/us/app/weatherbug-weather-forecasts-and-alerts/id1059074180?mt=12)
 3. kap(https://getkap.co/ , 일부영역 mp4, gif 녹화 프로그램)
 4. snappy(캡쳐 + 캡쳐한 걸 화면에 고정시켜둠, mac 기본 캡쳐보다 편리함.)
-5. RocketFuel(맥 안꺼지게 하는거. 설치할까말까?)
+5. ~~RocketFuel(맥 안꺼지게 하는거. 설치할까말까?)~~ caffeine 으로 대체함
 6. 무비스트(동영상 플레이어)
 
 ### 소프트웨어 - 나중에
