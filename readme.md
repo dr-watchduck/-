@@ -2,7 +2,7 @@
 0. 키보드 연속입력 속도 빠르게 변경
 1. 키보드 - 텍스트 - 맞춤법 자동 완성 off
 2. 트랙패드 보조입력 오른쪽 하단으로 변경
-3. defaults write -g ApplePressAndHoldEnabled -bool false
+3. https://gureum.io/#install 구름 입력기. (쌍자음 안 쳐지게 하는거.)
 4. dock 정리
 5. https://monitor.co.kr/a/1/ 모니터 불량화소 체크
 
