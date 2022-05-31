@@ -15,12 +15,13 @@
 7. npm lts 중에 가장 최신꺼 다운로드.
 8. ~~gh auth login (https://youtu.be/B26yiuC5zPM?t=490)~~
 9.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitLens, prettier
-10. __vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)__
-11. 유니콘 HTTPS 설치
-12. https://filezilla-project.org/download.php?platform=osx 설치
-13. Fork 세팅
-14. 회사 유니티 프로젝트 설치
-15. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.  
+10. ~~vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)~~
+11. vscode 한글 입력 오류 수정, Cmd + Shift + P -> 표시 언어 구성 -> ko -> 재시작
+12. 유니콘 HTTPS 설치
+13. https://filezilla-project.org/download.php?platform=osx 설치
+14. Fork 세팅
+15. 회사 유니티 프로젝트 설치
+16. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.  
     window에서 사용하던 헬테이커 다운로더 등등
 
 ### 소프트웨어 - item2 설치 버전
