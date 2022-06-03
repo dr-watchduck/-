@@ -8,7 +8,7 @@
 
 ### 소프트웨어 - item2 설치 X
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
-2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-powerpoint fork keka intellij-idea-ce skitch discord anaconda
+2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion microsoft-excel microsoft-outlook microsoft-powerpoint fork keka intellij-idea-ce skitch discord anaconda
 3. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
 4. brew install --cask microsoft-teams parsec caffeine obs steam appcleaner monitorcontrol
 5. brew install nvm gh 
@@ -18,11 +18,12 @@
 9.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitLens, prettier
 10. ~~vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)~~
 11. vscode 한글 입력 오류 수정, Cmd + Shift + P -> 표시 언어 구성 -> ko -> 재시작
-12. 유니콘 HTTPS 설치
-13. https://filezilla-project.org/download.php?platform=osx 설치
-14. Fork 세팅
-15. 회사 유니티 프로젝트 설치
-16. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.  
+12. telegram 은 app-store 에서 `telegram-lite`를 다운받아야 윈도우와 같은 layout의 telegram을 받을 수 있다.
+13. 유니콘 HTTPS 설치
+14. https://filezilla-project.org/download.php?platform=osx 설치
+15. Fork 세팅
+16. 회사 유니티 프로젝트 설치
+17. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.  
     window에서 사용하던 헬테이커 다운로더 등등
 
 ### 소프트웨어 - item2 설치 버전
