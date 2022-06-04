@@ -5,6 +5,8 @@
 3. https://gureum.io/#install 구름 입력기. (쌍자음 안 쳐지게 하는거.)
 4. dock 정리
 5. https://monitor.co.kr/a/1/ 모니터 불량화소 체크
+6. defaults write com.apple.notificationcenterui bannerTime 0 
+7. killall NotificationCenter
 
 ### 소프트웨어 - item2 설치 X
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
