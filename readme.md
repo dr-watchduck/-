@@ -18,7 +18,7 @@
 7. npm lts 중에 가장 최신꺼 다운로드.
 8. npm install -g react-native-cli
 9. brew tap AdoptOpenJDK/openjdk
-10. brew cask install adoptopenjdk8
+10. brew install --cask adoptopenjdk8
 11. ~~gh auth login (https://youtu.be/B26yiuC5zPM?t=490)~~
 12.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitLens, prettier
 13. ~~vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)~~
