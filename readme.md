@@ -12,7 +12,7 @@
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
 2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion microsoft-excel microsoft-outlook microsoft-powerpoint fork keka intellij-idea-ce skitch discord anaconda
 3. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
-4. brew install --cask microsoft-teams parsec caffeine obs steam appcleaner monitorcontrol keycastr cocoapods android-platform-tools
+4. brew install --cask microsoft-teams parsec caffeine obs steam appcleaner monitorcontrol keycastr cocoapods android-platform-tools WebPQuickLook
 5. brew install nvm gh 
 6. nvm ls-remote
 7. npm lts 중에 가장 최신꺼 다운로드.
@@ -28,18 +28,10 @@
 17. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.  
     window에서 사용하던 헬테이커 다운로더 등등
 
-### 소프트웨어 - item2 설치 버전
-1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
-2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion telegram microsoft-excel microsoft-outlook microsoft-teams microsoft-powerpoint fork keka intellij-idea-ce
+### item2 설치
 3. iTerm2 확장 https://gist.github.com/kevin-smets/8568070
 4. iTerm2 세팅 https://youtu.be/B26yiuC5zPM?t=182
-5. brew install python3 pipenv nvm gh
-6. nvm ls-remote
-7. npm lts 중에 가장 최신꺼 다운로드.
-8. gh auth login (https://youtu.be/B26yiuC5zPM?t=490)
-9.  vscode 익스텐션 설치.  python, c#, dart, debugger for unity, flutter, gitrens
 10. vscode terminal에서 item2 icon이 안 보이는 문제 해결 (https://youtu.be/B26yiuC5zPM?t=537)
-11. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
 
 ### 소프트웨어 - 부가요소
 1. next meeting(https://apps.apple.com/us/app/next-meeting/id1017470484?mt=12 , 잘 쓸수 있으려나?)
