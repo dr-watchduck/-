@@ -10,7 +10,7 @@
 
 ### 소프트웨어 - item2 설치 X
 1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  (brew.sh)
-2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion microsoft-excel microsoft-outlook microsoft-powerpoint fork keka intellij-idea-ce skitch discord anaconda
+2. brew install --cask visual-studio-code google-chrome brave-browser slack flutter unity-hub notion microsoft-excel microsoft-outlook microsoft-powerpoint fork keka intellij-idea-ce skitch discord anaconda watchman
 3. /usr/sbin/softwareupdate --install-rosetta --agree-to-license
 4. brew install --cask microsoft-teams parsec caffeine obs steam appcleaner monitorcontrol keycastr cocoapods android-platform-tools
 5. brew install nvm gh 
