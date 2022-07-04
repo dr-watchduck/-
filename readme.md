@@ -31,6 +31,12 @@
 20. <기존 맥북&윈도우> 프로그래밍 하던거 옮겨오기.  
     window에서 사용하던 헬테이커 다운로더 등등
 
+### ssd 수명 체크
+1. brew install smartmontools
+2. 스포트라이트 - system information
+3. 하드웨어 - 저장 장치 - Macintosh HD - BSD 이름 복사
+4. smartctl -a <BSD 이름>
+
 ### item2 설치
 3. iTerm2 확장 https://gist.github.com/kevin-smets/8568070
 4. iTerm2 세팅 https://youtu.be/B26yiuC5zPM?t=182
